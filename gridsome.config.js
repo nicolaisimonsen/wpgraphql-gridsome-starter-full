@@ -10,7 +10,7 @@ module.exports = {
     {
       use: "gridsome-source-graphql",
       options: {
-        url: "http://wpprep.local/graphql",
+        url: "http://your-site/graphql",
         typeName: "WPGraphQL",
         fieldName: "wpgraphql",
       },
